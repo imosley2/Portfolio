@@ -1,2 +1,3 @@
 # Portfolio
-This repository is for showcasing my portfolio
+This repository is for showcasing my portfolio.
+I am a army veteran professional seeking an entry-level position in cyber security. Result-driven cyber security coach with proven sucess in teaching clients the skills to reach their goals. Highly skilled, with successful and successful and progressive management and development. Adept at juggling multiple assignments and conflicting tasks in a timely and efficient manner to successfully complete prioritorized objectives. Exprienced in fast-paced, continiously evolving environments, while maintaining classified databases and strict deadlines in support of organizational objectives. Quick learner with a sincere desire to grow professionally with a great organization.
