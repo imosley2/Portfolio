@@ -4,4 +4,4 @@ I am an Army veteran and emerging cybersecurity professional with a strong track
 
 I'm known for quickly mastering new technologies, adapting under pressure, and efficiently managing multiple priorities without sacrificing quality or accuracy. With a foundation in leadership, disciplined work ethic, and a commitment to continuous learning, I'm seeking an entry-level cybersecurity role where I can contribute to a team, strengthen organizational security, and continue developing as a cybersecurity professional.
 
-For viewing of my experience, click on readme-edit branch.
+For viewing of my experience, click on the readme-edit branch.
